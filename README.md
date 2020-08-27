@@ -1,9 +1,9 @@
 # SQL Database
 
-##Info
+## Info
 SQL Server Database application created by using Dapper and stored procedures.
 
-##Features
+## Features
 
 *Connects to database
 *Searches in database

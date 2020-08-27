@@ -1,0 +1,81 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>SQL Database</name>
+    </assembly>
+    <members>
+        <member name="T:SQL_Database.DataAccess">
+            <summary>
+            Class which contains methods handling database.
+            </summary>
+            <remarks>
+            This class can search database and also adds new transaction to the database using stored procedures.
+            </remarks>
+        </member>
+        <member name="M:SQL_Database.DataAccess.GetTransactions(System.String)">
+            <summary>
+            Public List method which search database for transactions by last name.
+            </summary>
+            <param name="lastName">Last name of a person which transactions we're looking for.</param>
+            <returns>List of transactions.</returns>
+        </member>
+        <member name="M:SQL_Database.DataAccess.AddTransaction(System.String,System.String,System.String,System.String,System.String,System.String,System.String,System.String)">
+            <summary>
+            Public void method which adds new transaction to the database.
+            </summary>
+            <param name="FirstName">First name of a person which made a transaction.</param>
+            <param name="LastName">Last name of a person which made a transaction.</param>
+            <param name="Email">Email of a person which made a transaction.</param>
+            <param name="IpAddress">IP address of a network from which transaction was made.</param>
+            <param name="Country">Country from which transaction was made.</param>
+            <param name="CreditCardNumber">Credtic card number used to pay.</param>
+            <param name="CreditCardType">Credtic card type used to pay.</param>
+            <param name="Amount">Amount of money used in transaction.</param>
+        </member>
+        <member name="T:SQL_Database.Helper">
+            <summary>
+            Public static class helps with connection to database.
+            </summary>
+        </member>
+        <member name="M:SQL_Database.Helper.GetConnectionString(System.String)">
+            <summary>
+            Method which gets connection string to database from App.config
+            </summary>
+            <param name="name">Name of a connection string to the database.</param>
+            <returns>Connection string to the database</returns>
+        </member>
+        <member name="T:SQL_Database.Program">
+            <summary>
+            Main class.
+            </summary>
+        </member>
+        <member name="M:SQL_Database.Program.Main">
+            <summary>
+             The main entry point for the application.
+            </summary>
+        </member>
+        <member name="T:SQL_Database.Transaction">
+            <summary>
+            Transaction class.
+            Conteins all the informations about transaction.
+            </summary>
+        </member>
+        <member name="F:SQL_Database.Viewer.components">
+            <summary>
+            Required designer variable.
+            </summary>
+        </member>
+        <member name="M:SQL_Database.Viewer.Dispose(System.Boolean)">
+            <summary>
+            Clean up any resources being used.
+            </summary>
+            <param name="disposing">true if managed resources should be disposed; otherwise, false.</param>
+        </member>
+        <member name="M:SQL_Database.Viewer.InitializeComponent">
+            <summary>
+            Required method for Designer support - do not modify
+            the contents of this method with the code editor.
+            </summary>
+        </member>
+    </members>
+</doc>

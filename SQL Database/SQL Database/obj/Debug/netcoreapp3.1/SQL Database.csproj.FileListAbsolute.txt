@@ -1,0 +1,50 @@
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\SQL Database.exe
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\SQL Database.deps.json
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\SQL Database.runtimeconfig.json
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\SQL Database.runtimeconfig.dev.json
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\SQL Database.dll
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\SQL Database.pdb
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.csprojAssemblyReference.cache
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.csproj.GenerateResource.cache
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.AssemblyInfoInputs.cache
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.AssemblyInfo.cs
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.dll
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.pdb
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.genruntimeconfig.cache
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL_Database.Viewer.resources
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\SQL Database.dll.config
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.csproj.CopyComplete
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.csproj.CoreCompileInputs.cache
+C:\Users\wowiz\source\repos\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\SQL Database.xml
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\SQL Database.exe
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\SQL Database.dll.config
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\SQL Database.deps.json
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\SQL Database.runtimeconfig.json
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\SQL Database.runtimeconfig.dev.json
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\SQL Database.dll
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\SQL Database.pdb
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\SQL Database.xml
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\Dapper.dll
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.csprojAssemblyReference.cache
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL_Database.Viewer.resources
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.csproj.GenerateResource.cache
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.AssemblyInfoInputs.cache
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.AssemblyInfo.cs
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.csproj.CoreCompileInputs.cache
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.csproj.CopyComplete
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.dll
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.pdb
+C:\Users\wowiz\source\repos\SQL Database app + db\SQL Database\SQL Database\obj\Debug\netcoreapp3.1\SQL Database.genruntimeconfig.cache
